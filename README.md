@@ -1,1 +1,1 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+This is a repo for bungee tech,I have completed question-2 only and the source code and required output files are in answer-2 folder.
